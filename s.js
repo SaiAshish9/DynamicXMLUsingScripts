@@ -1,6 +1,6 @@
 const fs = require("fs"),
   PATH = "./s.json",
-  data = require(PATH)
+  data = require(PATH),
   { argv } = require("process"),
   tests_target = argv[2],
   testSuiteApp = argv[3],
