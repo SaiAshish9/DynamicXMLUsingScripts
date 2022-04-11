@@ -40,7 +40,7 @@
 		<key>TestBundlePath</key>
 		<string>__TESTHOST__/PlugIns/SampleXCUITests.xctest</string>
 		<key>TestHostBundleIdentifier</key>
-		<string>com.bsstack.SampleXCUITests.xctrunner</string>
+		<string>com.browserstack.Sample-iOS.xctrunner</string>
 		<key>TestHostPath</key>
 		<string>__TESTROOT__/Debug-iphonesimulator/SampleXCUITests-Runner.app</string>
 		<key>TestLanguage</key>
