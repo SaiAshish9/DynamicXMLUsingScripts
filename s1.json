@@ -1,0 +1,50 @@
+{
+  "__xctestrun_metadata__": { "FormatVersion": 1 },
+  "Tests_Target": {
+    "TestHostBundleIdentifier": "com.pqr.xctrunner",
+    "UITargetAppPath": "__TESTROOT__/Debug-iphonesimulator/TestSuite AppName.app",
+    "ProductModuleName": "Tests_Target",
+    "TestHostPath": "__TESTROOT__/Debug-iphonesimulator/Tests_Target-Runner.app",
+    "BlueprintName": "SampleXCUITests",
+    "BundleIdentifiersForCrashReportEmphasis": ["com.abc", "com.pqr"],
+    "TestBundlePath": "__TESTHOST__/PlugIns/Tests_Target.xctest",
+    "DependentProductPaths": [
+      "__TESTROOT__/Debug-iphonesimulator/TestSuite AppName.app",
+      "__TESTROOT__/Debug-iphonesimulator/Tests_Target-Runner.app/PlugIns/Tests_Target.xctest"
+    ],
+    "TestRegion": "",
+    "IsXCTRunnerHostedTestBundle": true,
+    "IsUITestBundle": true,
+    "TestTimeoutsEnabled": false,
+    "ToolchainsSettingValue": [],
+    "UITargetAppCommandLineArguments": [],
+    "TestLanguage": "",
+    "DefaultTestExecutionTimeAllowance": 600,
+    "UITargetAppEnvironmentVariables": {
+      "__XPC_DYLD_LIBRARY_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "__XPC_DYLD_FRAMEWORK_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "__XCODE_BUILT_PRODUCTS_DIR_PATHS": "__TESTROOT__/Debug-iphonesimulator",
+      "DYLD_FRAMEWORK_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "DYLD_LIBRARY_PATH": "__TESTROOT__/Debug-iphonesimulator"
+    },
+    "UserAttachmentLifetime": "deleteOnSuccess",
+    "UITargetAppMainThreadCheckerEnabled": true,
+    "RunOrder": 0,
+    "EnvironmentVariables": {
+      "OS_ACTIVITY_DT_MODE": "YES",
+      "SQLITE_ENABLE_THREAD_ASSERTIONS": "1"
+    },
+    "CommandLineArguments": [],
+    "SystemAttachmentLifetime": "deleteOnSuccess",
+    "TestingEnvironmentVariables": {
+      "DYLD_LIBRARY_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "DYLD_FRAMEWORK_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "DYLD_INSERT_LIBRARIES": "__PLATFORMS__/iPhoneOS.platform/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib",
+      "DYLD_FALLBACK_LIBRARY_PATH": "__PLATFORMS__/iPhoneSimulator.platform/Developer/usr/lib",
+      "__XPC_DYLD_LIBRARY_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "__XCODE_BUILT_PRODUCTS_DIR_PATHS": "__TESTROOT__/Debug-iphonesimulator",
+      "__XPC_DYLD_FRAMEWORK_PATH": "__TESTROOT__/Debug-iphonesimulator",
+      "DYLD_FALLBACK_FRAMEWORK_PATH": "__PLATFORMS__/iPhoneSimulator.platform/Developer/Library/Frameworks"
+    }
+  }
+}
